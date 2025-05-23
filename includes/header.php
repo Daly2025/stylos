@@ -13,6 +13,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600&display=swap" rel="stylesheet">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/stylos/css/style.css">
+    <link rel="stylesheet" href="/stylos/css/services.css"> <!-- Nuevo enlace -->
 </head>
 <body>
     <header>

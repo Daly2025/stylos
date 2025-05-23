@@ -3,7 +3,7 @@
 <main class="servicios">
     <section class="welcome">
         <h1 data-text="Corte de Pelo para Señoras">Corte de Pelo para Señoras</h1>
-        
+
         <div class="servicio-descripcion">
             <p>Descubre nuestra gama exclusiva de cortes femeninos:</p>
             
