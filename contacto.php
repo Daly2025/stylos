@@ -3,6 +3,12 @@
 <main class="contact-form">
     <section class="welcome-form">
         <div class="container">
+            <div class="animated-tools">
+                <div>✂️</div>
+                <div>🪮</div>
+                <div>✂️</div>
+                <div>🪮</div>
+            </div>
             <div class="row justify-content-center">
                 <div class="col-md-8">
                     <h1 class="text-center mb-5">Reserva tu Cita</h1>
