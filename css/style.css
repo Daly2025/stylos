@@ -146,9 +146,27 @@ nav ul li a {
 
 
 .welcome p {
-    color: #666;
-    font-size: min(1.5rem, 4vw);
+    color: #1a1a1a;
+    font-size: min(2rem, 5vw);
     max-width: 800px;
+    font-family: 'Crimson Text', serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    letter-spacing: 1px;
+    line-height: 1.6;
+    margin-top: 1rem;
+    font-weight: 500;
+    animation: fadeInGothic 2s ease-out;
+}
+
+@keyframes fadeInGothic {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 /* Estilos del footer */
