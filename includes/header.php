@@ -28,16 +28,16 @@
                             <a class="nav-link" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Servicios
                             </a>
-                            <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="servicios.php#senora">Corte de Pelo Señora</a></li>
-                                <li><a class="dropdown-item" href="servicios.php#caballero">Corte de Pelo Caballero</a></li>
-                                <li><a class="dropdown-item" href="servicios.php#ninos">Corte de Pelo Niños</a></li>
-                                <li><a class="dropdown-item" href="servicios.php#barba">Corte de Barba</a></li>
-                                <li><a class="dropdown-item" href="servicios.php#tinte">Tinte</a></li>
-                                <li><a class="dropdown-item" href="servicios.php#mechas">Mechas</a></li>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <li><a class="dropdown-item" href="corte_senoras.php">Corte Señoras</a></li>
+                                <li><a class="dropdown-item" href="corte_caballero.php">Corte Caballero</a></li>
+                                <li><a class="dropdown-item" href="corte_ninos.php">Corte Niños</a></li>
+                                <li><a class="dropdown-item" href="corte_barba.php">Corte de Barba</a></li>
+                                <li><a class="dropdown-item" href="tinte.php">Tinte</a></li>
+                                <li><a class="dropdown-item" href="mechas.php">Mechas</a></li>
                             </ul>
                         </li>
                         <li class="nav-item">
