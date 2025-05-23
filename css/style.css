@@ -277,3 +277,41 @@ nav ul li a {
         transform: translateY(0);
     }
 }
+
+
+/* Estilos para la animación de peinados */
+.hairstyles-animation {
+    margin-top: 2rem;
+    overflow: hidden;
+    max-width: 800px;
+    width: 100%;
+}
+
+.animated-hairstyles {
+    width: 100%;
+    height: auto;
+    opacity: 0.8;
+    animation: fadeInOut 3s ease-in-out infinite;
+    filter: grayscale(100%);
+    transition: filter 0.3s ease;
+}
+
+.animated-hairstyles:hover {
+    filter: grayscale(0%);
+    opacity: 1;
+}
+
+@keyframes fadeInOut {
+    0% {
+        opacity: 0.6;
+        transform: scale(1);
+    }
+    50% {
+        opacity: 0.9;
+        transform: scale(1.02);
+    }
+    100% {
+        opacity: 0.6;
+        transform: scale(1);
+    }
+}
