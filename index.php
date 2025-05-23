@@ -2,7 +2,7 @@
 
 <main class="home">
     <section class="welcome">
-        <h1>Bienvenidos a Peluquería Stylos</h1>
+        <h1 data-text="stylos">stylos</h1>
         <p>Tu salón de belleza de confianza en Vigo donde la elegancia se encuentra con el estilo.</p>
     </section>
 </main>
