@@ -712,7 +712,7 @@ nav ul li a:hover::after {
 }
 
 .floating-tools i {
-    font-size: 4.4rem; /* Tamaño duplicado */
+    font-size: 8.8rem; /* Tamaño cuadruplicado desde el original */
     opacity: 0.15;
     animation: floatTools 12s infinite linear;
 }
@@ -730,7 +730,7 @@ nav ul li a:hover::after {
 .floating-tools i:nth-child(10) { left: 65%; animation-delay: 7s; }
 
 .floating-tools i {
-    font-size: 4.4rem; /* Tamaño duplicado */
+    font-size: 8.8rem; /* Tamaño cuadruplicado */
     opacity: 0.18;
     animation-duration: 14s;
 }
