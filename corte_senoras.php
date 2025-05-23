@@ -11,9 +11,9 @@
                 <h2>Estilos Destacados</h2>
                 <ul class="lista-estilos">
                     <li>Corte bob clásico y moderno</li>
-                    <li>Capas con movimiento natural</li>
+                    <li>Capas punky</li>
                     <li>Cortes asimétricos vanguardistas</li>
-                    <li>Estilos con flequillo personalizado</li>
+                    
                 </ul>
             </div>
         </div>

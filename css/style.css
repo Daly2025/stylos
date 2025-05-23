@@ -178,7 +178,7 @@ nav ul li a:hover::after {
 
 .welcome h1 {
     font-family: 'Arial Black', 'Arial', sans-serif;
-    font-size: min(8rem, 15vw);
+    font-size: min(4rem, 10vw); /* Ajustado el tamaño mínimo y el vw */
     color: #fff;
     letter-spacing: 4px;
     margin-bottom: 1.5rem;
@@ -187,7 +187,7 @@ nav ul li a:hover::after {
     padding: 10px;
     font-weight: bold;
     -webkit-text-stroke: 2px #000;
-    text-shadow: 
+    text-shadow:
         -1px -1px 0 #000,
         1px -1px 0 #000,
         -1px 1px 0 #000,
@@ -587,10 +587,10 @@ nav ul li a:hover::after {
 
 .galeria-servicios {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* Cambiado a 3 columnas */
-    gap: 2rem;
+    grid-template-columns: repeat(4, 1fr); /* Aseguramos 4 columnas */
+    gap: 1rem; /* Espacio entre imágenes */
     margin: 3rem auto;
-    max-width: 1200px;
+    max-width: 1200px; /* Aseguramos suficiente ancho */
 }
 
 .foto-servicio {
@@ -607,7 +607,6 @@ nav ul li a:hover::after {
     height: 100%; /* La imagen ocupa toda la altura del contenedor */
     object-fit: cover; /* Asegura que la imagen cubra el área sin distorsionarse */
 }
-
 
 .lista-estilos {
     position: relative;

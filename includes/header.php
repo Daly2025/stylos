@@ -36,8 +36,6 @@
                                 <li><a class="dropdown-item" href="corte_caballero.php">Corte Caballero</a></li>
                                 <li><a class="dropdown-item" href="corte_ninos.php">Corte Niños</a></li>
                                 <li><a class="dropdown-item" href="corte_barba.php">Corte de Barba</a></li>
-                                <li><a class="dropdown-item" href="tinte.php">Tinte</a></li>
-                                <li><a class="dropdown-item" href="mechas.php">Mechas</a></li>
                             </ul>
                         </li>
                         <li class="nav-item">

@@ -23,15 +23,7 @@
         <!-- Aquí irá el contenido y las fotos específicas -->
     </section>
 
-    <section id="tinte" class="service-section">
-        <h2>Tinte</h2>
-        <!-- Aquí irá el contenido y las fotos específicas -->
-    </section>
 
-    <section id="mechas" class="service-section">
-        <h2>Mechas</h2>
-        <!-- Aquí irá el contenido y las fotos específicas -->
-    </section>
 </main>
 
 <?php include 'includes/footer.php'; ?>
